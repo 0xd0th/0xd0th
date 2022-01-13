@@ -1,0 +1,3 @@
+- 👋 Hi, I’m ***@0xd0th!***
+- 👀 I’m interested in **hacking**, **programming** and **new technologies!**
+- 🌱 I’m currently learning **web development**, **web hacking**, and **python!**
