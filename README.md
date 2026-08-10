@@ -1,2 +1,6 @@
-- 👋 Hi, I’m ***@0xd0th!***
-- 👀 I’m interested in **hacking**, **programming** and **new technologies!**
+# Olá, eu sou Evandro Nobre 👋
+
+🎓 Estudante de **Ciência da Computação** na **Universidade de Fortaleza**    
+💻 Interesse em **Redes, sistemas operacionais, manutenção de computadores, baixo nível, sistemas embarcados e microcontroladores**
+
+---
